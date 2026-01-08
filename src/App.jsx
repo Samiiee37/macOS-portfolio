@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <>
-      <div>hrllsdfbo</div>
+      <div className="font-bold text-3xl">hrllsdfbo</div>
     </>
   );
 }
